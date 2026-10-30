@@ -1,0 +1,10 @@
+{
+  "name": "hoa-hoc-12-ket-noi-tri-thuc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hệ Thống Ôn Tập Chinh Phục 9+ & Điểm 10 Hóa Học 12 – Kết Nối Tri Thức (Trọn Bộ 8 Chương & Đề Cương Word)",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "npx vercel --prod"
+  }
+}
